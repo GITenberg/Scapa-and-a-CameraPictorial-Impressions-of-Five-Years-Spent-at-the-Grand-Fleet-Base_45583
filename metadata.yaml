@@ -1,0 +1,43 @@
+_repo: Scapa-and-a-CameraPictorial-Impressions-of-Five-Years-Spent-at-the-Grand-Fleet-Base_45583
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Miller, F. S. (Francis Spurstow)
+    alias: Miller, Francis Spurstow
+    birthdate: 1863
+    deathdate: 1954
+    gutenberg_agent_id: '43367'
+    url: http://www.gutenberg.org/2009/agents/43367
+covers:
+- cover_type: archival
+  image_path: 45583-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Burrows, C. W.
+    gutenberg_agent_id: '43366'
+    url: http://www.gutenberg.org/2009/agents/43366
+description: ''
+gutenberg_issued: '2014-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45583'
+  lccn: a22001865
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany. Kriegsmarine -- Pictorial works'
+- !lcsh 'Scapa Flow (Scotland) -- Pictorial works'
+- !lcsh 'Great Britain. Royal Navy -- Pictorial works'
+- !lcc 'VA'
+- !lcsh 'Warships -- Great Britain -- Pictorial works'
+- !lcsh 'World War, 1914-1918 -- Naval operations'
+- !lcsh 'Orkney (Scotland) -- Pictorial works'
+- !lcsh 'Scapa Flow (Scotland) -- History, Naval -- 20th century'
+tableOfContents: The development of the base -- Scenes around Scapa Flow -- The Navy
+  at Scapa Flow -- The German ships at Scapa Flow.
+title: 'Scapa and a Camera
+
+  Pictorial Impressions of Five Years Spent at the Grand Fleet Base'
+url: http://www.gutenberg.org/ebooks/45583
