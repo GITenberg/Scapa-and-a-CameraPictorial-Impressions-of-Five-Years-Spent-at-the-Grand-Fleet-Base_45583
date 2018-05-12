@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '43366'
     url: http://www.gutenberg.org/2009/agents/43366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45583#Scapa-and-a-CameraPictorial-Impressions-of-Five-Years-Spent-at-the-Grand-Fleet-Base
 gutenberg_issued: '2014-05-04'
 gutenberg_type: Text
 identifiers:
